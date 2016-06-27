@@ -1,0 +1,6 @@
+{
+    "require": {
+        "librette/queries": "@dev",
+        "librette/doctrine-queries": "@dev"
+    }
+}
